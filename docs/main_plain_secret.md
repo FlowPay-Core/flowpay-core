@@ -72,9 +72,13 @@ flowpay-core/
    │  └─ unlock_verify.sh
    └─ postman_collection.json
 
-
+FlowPay = “PIX that actually unlocks things.”
+secure by default
 
 # 1) FlowPay versão “FlowPay-core” **Permission Gateway**
+
+https://openclaw.ai/blog/introducing-openclaw de benchmark, nesse link ele mesmo fala do acaso mas podemos fazer associação com a FlowPay que soluciona, assim como o openclaw, algo que ninguém tira um tempo para entregar solução pronta de fato
+
 
 **Um backend mínimo que faz 3 coisas e só:**
 

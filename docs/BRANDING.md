@@ -6,7 +6,7 @@
 
 ---
 
-## 0) Essence (The identity nucleus)
+## 0 Essence (The identity nucleus)
 
 FlowPay is not just an app. FlowPay is **premium infrastructure** with an "energy" aesthetic:
 - **Velocity**: Instant rails.
@@ -18,7 +18,7 @@ FlowPay is not just an app. FlowPay is **premium infrastructure** with an "energ
 
 ---
 
-## 1) Palette & Style
+## 1 Palette & Style
 
 ### 1.1 Core Colors (HEX)
 - **Flow Magenta (Primary)**: `#FF2BD6`
@@ -32,21 +32,21 @@ FlowPay is not just an app. FlowPay is **premium infrastructure** with an "energ
 
 ---
 
-## 2) Typography
+## 2 Typography
 - **UI + Product**: `Inter` (Weights: 400, 600, 800)
 - **Infra / Code**: `JetBrains Mono` (Weights: 400, 600)
 - **Headlines**: `Space Grotesk` or `Sora`
 
 ---
 
-## 3) Visual Principles
+## 3 Visual Principles
 - **Controlled Bloom**: Glow usage between 20-35%.
 - **Night Glass**: Subtle transparency and background blur (18px).
 - **Textures**: 3-6% light grain permitted. No heavy noise.
 
 ---
 
-## 4) Messaging (Core)
+## 4 Messaging (Core)
 - **EN**: "PIX that actually unlocks things."
 - **EN**: "Payment → Permission"
 - **PT-BR**: "Pix confirmado. Acesso liberado."
