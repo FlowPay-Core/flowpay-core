@@ -11,6 +11,8 @@
     "dev": "nodemon --watch src --ext ts --exec ts-node src/app.ts",
     "build": "tsc",
     "start": "node dist/app.js",
+    "lint": "npx tsc --noEmit",
+    "typecheck": "npx tsc --noEmit",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
