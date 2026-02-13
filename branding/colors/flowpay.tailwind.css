@@ -1,0 +1,38 @@
+/* FlowPay Official Tailwind CSS Configuration / Tokens */
+
+@layer base {
+  :root {
+    /* Brand Colors */
+    --flow-magenta: #FF2BD6;
+    --flow-violet: #7A1CFF;
+    --flow-electric-blue: #2DE2FF;
+    --flow-neon-pink: #FF4DE3;
+
+    /* Dark System */
+    --abyss-black: #050007;
+    --deep-violet: #120018;
+    --night-purple: #1A0A2B;
+
+    /* Semantic */
+    --success-paid: #00F5A0;
+    --warning-pending: #FFCC00;
+    --danger-failed: #FF3B3B;
+  }
+}
+
+@theme {
+  --color-flow-magenta: var(--flow-magenta);
+  --color-flow-violet: var(--flow-violet);
+  --color-flow-blue: var(--flow-electric-blue);
+  
+  --color-abyss: var(--abyss-black);
+  --color-surface-deep: var(--deep-violet);
+  --color-surface-card: var(--night-purple);
+
+  --color-success: var(--success-paid);
+  --color-warning: var(--warning-pending);
+  --color-danger: var(--danger-failed);
+
+  --background-image-flow-neon: linear-gradient(135deg, #FF2BD6 0%, #7A1CFF 55%, #2DE2FF 100%);
+  --background-image-night-glass: linear-gradient(180deg, rgba(255, 255, 255, 0.06), rgba(255, 255, 255, 0.02));
+}
